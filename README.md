@@ -1,1 +1,1 @@
-# Moonraft
+React Navigation and redux setup
